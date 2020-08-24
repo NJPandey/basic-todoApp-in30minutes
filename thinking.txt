@@ -1,0 +1,19 @@
+- thinking about the UI(wire-framing)
+- functionality
+    - add TODO_item
+    - delete TODO_item
+    - check tasks
+    - total tasks
+- Data 
+    - tasks : an array [{},{},{},{}]
+    - task : an object {}
+    {
+        done : true/false
+        text : "go to zym"
+        id
+    }
+- Functions (in code) 
+    - addTodo()
+    - deleteTodo()
+    - checkTodo()
+    - renderTodo()
